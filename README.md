@@ -8,7 +8,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=haipeng-lin&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=haipeng-lin&show_icons=true&theme=onedark)
 
 ---
 You are my ![Visitor Count](https://profile-counter.glitch.me/haipeng-lin/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
