@@ -6,7 +6,9 @@
 - 📫 How to reach me: haipeng_lin@163.com
 - 😄 Read more about my CSDN: [糕手_技术博客](https://haipeng-lin.blog.csdn.net/)
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+---
+
+![](https://github-readme-stats.vercel.app/api?username=haipeng-lin&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
