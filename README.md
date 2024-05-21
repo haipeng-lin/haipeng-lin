@@ -2,13 +2,15 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: haipeng_lin@163.com
-- 😄 Read more about my CSDN: [糕手_技术博客](https://haipeng-lin.blog.csdn.net/)
+- 💬 Ask me about anything related to Java.
+- 📫 How to reach me：haipeng_lin@163.com
+- 😄 Read more about my CSDN：[糕手_技术博客](https://haipeng-lin.blog.csdn.net/)
 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=haipeng-lin&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ---
 You are my ![Visitor Count](https://profile-counter.glitch.me/haipeng-lin/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
