@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me：haipeng_lin@163.com
-- 😄 Read more about my CSDN：[糕手_技术博客](https://haipeng-lin.blog.csdn.net/)
+- 😄 Read more about my CSDN：[踢桃_技术博客](https://haipeng-lin.blog.csdn.net/)
 
 ---
 
