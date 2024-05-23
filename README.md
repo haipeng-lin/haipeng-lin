@@ -27,6 +27,8 @@
 ---
 You are my ![Visitor Count](https://profile-counter.glitch.me/haipeng-lin/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haipeng-lin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
