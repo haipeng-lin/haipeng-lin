@@ -1,17 +1,10 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-
-### Hi 我是踢桃呀，一名想早日成为 Java 开发糕手的小选手，目前大三，冲击秋招ing！！！
-
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java.
-- 📫 How to reach me：haipeng_lin@163.com
-- 😄 Read more about my CSDN：[踢桃_技术博客](https://haipeng-lin.blog.csdn.net/)
-
-![image](https://github.com/haipeng-lin/haipeng-lin/assets/170423484/6dad9a74-eeed-4315-b3d2-093734ae3e38)
-
-
+### Hi 我是踢桃呀！
+- 👀 来自仲恺农业工程学院 | 大三在校生
+- 🌱 主修方向为Java后端 | 梦想成为全栈
+- 👊 写不出来代码我就爆吃东西和睡觉。希望代码报错少一点
+- 📫 我的邮箱：haipeng_lin@163.com
+- 😄 技术博客地址：[踢桃_技术博客](https://haipeng-lin.blog.csdn.net/)
+![image](https://github.com/haipeng-lin/haipeng-lin/assets/170423484/2ae53f27-2fb8-41cd-ae83-20a5f5fb121b)
 
 ---
 
