@@ -3,13 +3,8 @@
 - 🌱 主修方向为Java后端 | 梦想成为全栈
 - 👊 喜欢摄影拍照、爬上、看电影、吃塔斯丁中国汉堡
 - 📫 我的邮箱：haipeng_lin@163.com
-- 😄 技术博客地址：[踢桃_技术博客](https://haipeng-lin.blog.csdn.net/)
+- 😄 技术博客地址：[来自梦里的一条鱼](https://haipeng-lin.cn)
 
-![image](https://github.com/haipeng-lin/haipeng-lin/assets/170423484/2ae53f27-2fb8-41cd-ae83-20a5f5fb121b)
-
-- 拍过这辈子最喜欢的一组晚霞照片
-![61](https://github.com/haipeng-lin/haipeng-lin/assets/170423484/247c216f-6dc6-455b-a9f5-986aea103b45)
-![51](https://github.com/haipeng-lin/haipeng-lin/assets/170423484/8d180eb8-95ca-49fd-8e12-bfb7b7ecbb68)
 
 
 
