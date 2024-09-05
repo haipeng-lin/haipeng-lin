@@ -2,10 +2,10 @@
 <h3 align="center">Java 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
-  <a href="https://github.com/blockCloth/codingblog">
+  <a href="https://github.com/haipeng-lin/minipan-java">
     <img src="https://img.shields.io/badge/Project-微网盘-brightgreen" alt="CodingBlog">
   </a>
-  <a href="https://github.com/blockCloth/EasyDB">
+  <a href="https://github.com/haipeng-lin/MiniDB"> 
     <img src="https://img.shields.io/badge/Project-MiniDB-blue" alt="EasyDB">
   </a>
   <a href="https://github.com/blockCloth">
@@ -23,8 +23,8 @@
 在学习中，我致力于设计高效、可扩展的后端服务，并且注重代码的优雅与简洁
 
 - 📝 我喜欢在 [https://www.haipeng-lin.cn](https://blockcloth.cn) 记录我的学习笔记和分析日常的碎碎念
-- 🌱 正在学习 **、SpringCloud、SQL**，提升自己的技术栈
-- 👯 希望深入了解 [MiniDB](https://github.com/blockCloth/EasyDB)，学习并优化数据库管理的相关知识
+- 🌱 正在学习 **SpringCloud、消息队列**，提升自己的技术栈
+- 👯 希望深入了解 [MiniDB](https://github.com/haipeng-lin/MiniDB)，学习并优化数据库管理的相关知识
 
 ---
 
