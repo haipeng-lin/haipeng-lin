@@ -14,7 +14,7 @@
 </p>
 
 
----
+
 
 ## 🌟 关于我
 
@@ -26,7 +26,7 @@
 - 🌱 正在学习 **SpringCloud、消息队列**，提升自己的技术栈
 - 👯 希望深入了解 [MiniDB](https://github.com/haipeng-lin/MiniDB)，学习并优化数据库管理的相关知识
 
----
+
 
 ## 🔧 技能与工具
 
@@ -56,7 +56,7 @@
 </p>
 
 
----
+
 
 ## 🎯 目前目标
 
@@ -64,12 +64,12 @@
 - **学习数据结构与算法**: 强化自己的算法能力，为解决复杂问题提供更好的思维方式。
 
 
----
+
 
 ## 📫 联系我
 
 - **Email**: haipeng_lin@163.com
 - **GitHub**: [https://github.com/blockCloth](https://github.com/blockCloth)
 
----
+
 
