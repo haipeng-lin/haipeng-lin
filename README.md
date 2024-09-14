@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/Project-知识流-blue" alt="CodingBlog">
   </a>
   <a href="https://github.com/haipeng-lin/project-managent">
-    <img src="https://img.shields.io/badge/Project-项目管控流式平台-green" alt="CodingBlog">
+    <img src="https://img.shields.io/badge/Project-项目管控流式平台-blue" alt="CodingBlog">
   </a>
   <a href="https://github.com/haipeng-lin/minipan-java">
-    <img src="https://img.shields.io/badge/Project-微网盘-green" alt="CodingBlog">
+    <img src="https://img.shields.io/badge/Project-微网盘-blue" alt="CodingBlog">
   </a>
   <a href="https://github.com/haipeng-lin/MiniDB"> 
     <img src="https://img.shields.io/badge/Project-MiniDB-blue" alt="EasyDB">
