@@ -1,4 +1,4 @@
-﻿﻿<h1 align="center">你好👋！我是拾忆鱼</h1>
+﻿﻿﻿﻿<h1 align="center">你好👋！我是拾忆鱼</h1>
 <h3 align="center">Java 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
@@ -14,8 +14,8 @@
   <a href="https://github.com/haipeng-lin/MiniDB"> 
     <img src="https://img.shields.io/badge/Project-MiniDB-blue" alt="EasyDB">
   </a>
-  <a href="https://github.com/blockCloth">
-    <img src="https://img.shields.io/github/followers/blockcloth?label=Follow&style=social" alt="GitHub Followers">
+  <a href="https://github.com/haipeng-lin">
+    <img src="https://img.shields.io/github/followers/haipeng-lin?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -24,58 +24,32 @@
 
 ## 🌟 关于我
 
-我是一个充满好奇心和创造力的 Java 后端开发学习者，热爱学习并乐于探索后端开发的各种技术
-
-在学习中，我致力于设计高效、可扩展的后端服务，并且注重代码的优雅与简洁
-
-- 📝 我喜欢在 [https://www.haipeng-lin.cn](https://www.haipeng-lin.cn) 记录我的学习笔记和分析日常的碎碎念
-- 🌱 正在学习 **SpringCloud、消息队列**，提升自己的技术栈
-- 👯 希望深入了解 [MiniDB](https://github.com/haipeng-lin/MiniDB)，学习并优化数据库管理的相关知识
+- 目前大四，喜欢折腾技术。做小而美的产品，做有价值的事情是我的目标
+- 🏡 作品： <a href="https://github.com/haipeng-lin/knowledge-server" target="_blank">知识流🔥</a> | <a href="https://github.com/haipeng-lin/project-managent" target="_blank">项目管控流式平台✨</a>| <a href="https://github.com/haipeng-lin/minipan-java" target="_blank">微网盘🔍</a> 
+- :pencil: 博客：我喜欢在 [https://www.haipeng-lin.cn](https://blockcloth.cn) 记录我的学习笔记和分析日常的碎碎念客
+- 喜欢的书籍：《命运 文在寅自传》《见春天》
 
 
+## ✨ 我的技能
 
-## 🔧 技能与工具
+![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
-- **语言**：Java
-- **框架**：Spring、SpringMVC、MyBatis、Spring Boot、Spring Cloud
-- **数据库**：MySQL、MiniDB
-- **开发工具**：IntelliJ IDEA，Maven，Docker，Docker-Compose
-- **操作系统**: Linux，Windows
-- **版本控制**: Git，GitHub
+## ✨今年汇总(This year's summary) 
 
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
-## 🎯 目前目标
-
-- **参与开源项目**: 通过参与和贡献开源项目，提升自己的实际开发能力，并为社区做出贡献。
-- **学习数据结构与算法**: 强化自己的算法能力，为解决复杂问题提供更好的思维方式。
-
-
-
+<img align="" height="137px" src="https://github-readme-stats-xi-five-10.vercel.app/api?username=haipeng-lin&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&" /><img align="" height="137px" src="https://github-readme-stats-xi-five-10.vercel.app/api/top-langs/?username=haipeng-lin&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 📫 联系我
 
 - **Email**: haipeng_lin@163.com
-- **GitHub**: [https://github.com/blockCloth](https://github.com/blockCloth)
-
-
+- **GitHub**: [https://github.com/haipeng-lin](https://github.com/haipeng-lin)
 
