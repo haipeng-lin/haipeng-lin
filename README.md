@@ -2,6 +2,9 @@
 <h3 align="center">Java 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
+  <a href="https://github.com/haipeng-lin/chaosan-tide">
+    <img src="https://img.shields.io/badge/Project-潮聚向汕一站式平台-blue" alt="CodingBlog">
+  </a>
   <a href="https://github.com/haipeng-lin/knowledge-stream">
     <img src="https://img.shields.io/badge/Project-知识流-blue" alt="CodingBlog">
   </a>
