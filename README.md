@@ -2,7 +2,7 @@
 <h3 align="center">Java 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
-  <a href="https://github.com/haipeng-lin/chaosan-tide">
+  <a href="https://github.com/haipeng-lin/chaoshan-tide">
     <img src="https://img.shields.io/badge/Project-潮聚向汕一站式平台-blue" alt="CodingBlog">
   </a>
   <a href="https://github.com/haipeng-lin/knowledge-stream">
@@ -28,7 +28,7 @@
 ## 🌟 关于我
 
 - 目前大四，喜欢折腾技术。做小而美的产品，做有价值的事情是我的目标
-- 🏡 作品： <a href="https://github.com/haipeng-lin/knowledge-stream" target="_blank">知识流🔥</a> | <a href="https://github.com/haipeng-lin/project-managent" target="_blank">项目管控流式平台✨</a>| <a href="https://github.com/haipeng-lin/minipan" target="_blank">微网盘🔍</a> 
+- 🏡 作品：<a href="https://github.com/haipeng-lin/chaoshan-tide" target="_blank">潮聚向汕一站式平台🔥</a> | <a href="https://github.com/haipeng-lin/knowledge-stream" target="_blank">知识流🔥</a> | <a href="https://github.com/haipeng-lin/project-managent" target="_blank">项目管控流式平台✨</a>| <a href="https://github.com/haipeng-lin/minipan" target="_blank">微网盘🔍</a> 
 - :pencil: 博客：我喜欢在 [https://www.haipeng-lin.cn](https://blockcloth.cn) 记录我的学习笔记和分析日常的碎碎念客
 - 喜欢的书籍：《命运 文在寅自传》《见春天》
 
