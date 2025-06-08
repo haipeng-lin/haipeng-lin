@@ -2,8 +2,11 @@
 <h3 align="center">Java、Go后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
+  <a href="https://github.com/stars/haipeng-lin/lists/matching">
+    <img src="https://img.shields.io/badge/Project-搭子配平台-blue" alt="CodingBlog">
+  </a>
   <a href="https://github.com/stars/haipeng-lin/lists/project-manage">
-    <img src="https://img.shields.io/badge/Project-项目管控流式平台（单机、微服务）-blue" alt="CodingBlog">
+    <img src="https://img.shields.io/badge/Project-项目管控流式平台-blue" alt="CodingBlog">
   </a>
   <a href="https://github.com/haipeng-lin/knowledge-stream">
     <img src="https://img.shields.io/badge/Project-知识流-blue" alt="CodingBlog">
