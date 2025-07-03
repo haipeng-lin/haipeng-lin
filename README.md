@@ -1,5 +1,5 @@
 ﻿﻿﻿﻿<h1 align="center">你好👋！我是来自梦里的一条鱼🐟</h1>
-<h3 align="center">Java、Go后端开发学习者 | 追求高效与优雅的代码设计</h3>
+<h3 align="center">Java、Go 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
 <p align="center">
   <a href="https://github.com/stars/haipeng-lin/lists/matching">
@@ -23,8 +23,8 @@
 ## 🌟 关于我
 
 - 目前大四，坚持热爱，奔赴山海
-- 🏡 作品：<a href="https://github.com/haipeng-lin/knowledge-stream" target="_blank">知识流📖</a> | <a href="https://github.com/haipeng-lin/project-managent" target="_blank">项目管控流式平台✨</a>
-- :pencil: 博客：我喜欢在 [https://blog.haipeng-lin.cn](https://blog.haipeng-lin.cn) 记录我的学习笔记和分析日常的碎碎念客
+- 🏡 作品：<a href="https://github.com/haipeng-lin/project-managent" target="_blank">✨项目管控流式平台</a> <a href="https://github.com/haipeng-lin/knowledge-stream" target="_blank">📖知识流</a> | 
+- :pencil: 博客：我喜欢在 [blog.haipeng-lin.cn](blog.haipeng-lin.cn) 记录我的学习笔记和分析日常的碎碎念客
 - 喜欢的书籍：《命运 文在寅自传》《见春天》
 
 
